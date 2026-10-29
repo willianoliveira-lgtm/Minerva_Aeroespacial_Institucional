@@ -58,9 +58,7 @@ Sistema institucional completo para cotação e aquisição de componentes aeroe
 
 ## 🔐 Sistema de Autenticação
 
-### Credenciais de Teste
-- **Usuário**: admin
-- **Senha**: aerospace123
+
 
 ### Rotas Protegidas
 - `/restrito/cotacao/aprovacao` - Aprovação de cotações
